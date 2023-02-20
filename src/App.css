@@ -64,7 +64,7 @@
 .copyright {
   font-size: 20px;
   color: #fff;
-  text-shadow: 2px 2px #2d2f33;
+  text-shadow: 0px 1px #2d2f33;
 }
 
 @media(min-width: 1920px) {
